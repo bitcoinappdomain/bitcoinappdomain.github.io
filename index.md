@@ -1,6 +1,6 @@
-# bitcoin.app is for sale!
+# [bitcoin.app](https://bitcoin.app) is for sale!
 
-Contact bitcoinapp@protonmail.com for info.
+Contact [bitcoinapp@protonmail.com](mailto:bitcoinapp@protonmail.com) or tweet [@_bitcoinapp](https://twitter.com/_bitcoinapp) for info.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
